@@ -1,0 +1,22 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align:start;
+   
+
+}
+button{
+    background-color: rgb(243, 243, 45);
+    height: 55px;
+    width:140px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif
+}
+img{
+    align-items: flex-end;
+}

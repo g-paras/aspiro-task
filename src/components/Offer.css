@@ -1,0 +1,27 @@
+h1{
+    
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+
+img{
+    align-content: center;
+    border-radius: 5px;
+
+}
+h4{
+    background-color: rgba(246, 246, 238, 0.685);
+    text-align: center;
+}
+
+.grid-col {
+    grid-gap: 50px;
+  }
+  .container{
+      margin-right: 20px;
+      
+  }
+  

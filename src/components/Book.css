@@ -1,0 +1,24 @@
+img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: grey;
+}
+h2{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#progressbar {
+    background-color: rgb(230, 221, 221);
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+  }
+  
+  #progressbar>div {
+    background-color: gray;
+    width: 40%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }
+  

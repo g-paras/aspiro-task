@@ -1,0 +1,32 @@
+
+  .text-small {
+	font-size: 0.9rem;
+
+  }
+  
+  
+  a {
+	color: inherit;
+	text-align: start;
+	text-decoration: none;
+	transition: all 0.3s;
+  }
+  h5{
+    text-align: right;
+  }
+  
+  a:hover, a:focus {
+	text-decoration: none;
+  }
+  
+  
+ 
+  footer {
+	background: white;
+  }
+  
+  
+  /* ==========================================
+	  CUSTOM UTILS CLASSES
+	========================================== */
+	

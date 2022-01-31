@@ -1,0 +1,17 @@
+.navbar-collapse{
+    align-items: flex-end;
+    flex-direction:column;
+    color: #000;
+  }
+  a {
+    margin: 0 15px 0 15px;
+    
+  }
+  button {
+    margin: 0 10px 0 10px;
+  }
+  .nav-link{
+    color: #000;
+  }
+  
+  
